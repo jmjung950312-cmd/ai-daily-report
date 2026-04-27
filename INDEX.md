@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-04-27 | [전일 동향](./2026-04-27-rerun.md) | Claude Code 품질 핫픽스, DeepSeek V4 오픈소스 API 공개, Managed Agents 공개 베타 |
 | 2026-04-27 | [지난 7일 종합](./2026-04-27.md) | Claude Code 7회 업데이트, Pro 플랜 가격 논란, Google→Anthropic $40B 투자 보도 |
 
 ## ⚙️ 운영 메모
