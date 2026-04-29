@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-04-30 | [전일 동향](./2026-04-30.md) | Claude Code 비용 115% 상향, Anthropic 런던 800인 오피스, Pentagon 공급망 리스크 공방 |
 | 2026-04-29 | [전일 동향](./2026-04-29.md) | Claude for Creative Work, Claude Code v2.1.121 메모리 누수 수정, Grok 4.3 세부 기능 |
 | 2026-04-28 | [전일 동향](./2026-04-28.md) | Claude Cowork Bedrock 통합, Gemma 4 오픈소스, Anthropic 시드니 오피스 |
 | 2026-04-27 | [전일 동향](./2026-04-27-rerun.md) | Claude Code 품질 핫픽스, DeepSeek V4 오픈소스 API 공개, Managed Agents 공개 베타 |
