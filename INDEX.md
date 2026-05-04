@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-05-04 | [전일 동향](./2026-05-04.md) | Mistral Medium 3.5 (128B Dense, 77.6% SWE-Bench), Le Chat Work Mode, Pentagon-Anthropic 내부저항 |
 | 2026-05-03 | [전일 동향](./2026-05-03.md) | Claude Code v2.1.126 버그패치, OpenAI-AWS Bedrock 입성, MCP 9700만 설치 표준화 |
 | 2026-05-02 | [전일 동향](./2026-05-02.md) | Pentagon 8개사 기밀 AI 계약 (Anthropic 배제), Claude Security 퍼블릭 베타, Grok 4.3 API 정식 출시 |
 | 2026-04-30 | [전일 동향](./2026-04-30.md) | Claude Code 비용 115% 상향, Anthropic 런던 800인 오피스, Pentagon 공급망 리스크 공방 |
