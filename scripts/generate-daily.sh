@@ -4,14 +4,14 @@
 # Mac이 잠자던 중이면 깨어날 때 자동 실행 (StartCalendarInterval 기본 동작).
 
 set -u
-REPO_DIR="$HOME/Desktop/Claude-Core/ai-daily-report"
+REPO_DIR="$HOME/Claude/Claude-Core/ai-daily-report"
 LOG_DIR="$HOME/Library/Logs/ai-daily-report"
 LOG_FILE="$LOG_DIR/generate.log"
 PROMPT_FILE="$REPO_DIR/scripts/daily-prompt.md"
 
 mkdir -p "$LOG_DIR"
 TIMESTAMP=$(date +"%Y-%m-%d %H:%M:%S %Z")
-TODAY_KST=$(TZ=Asia/Seoul date +%Y-%m-%d)
+TODAY_KST=${TODAY_KST:-$(TZ=Asia/Seoul date +%Y-%m-%d)}
 
 echo "" >> "$LOG_FILE"
 echo "===== $TIMESTAMP — 보고서 생성 시작 =====" >> "$LOG_FILE"

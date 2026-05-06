@@ -3,7 +3,7 @@
 당신은 매일 아침 자동 트리거되는 비대화형 에이전트입니다. 아래 작업을 처음부터 끝까지 자율적으로 완수하고 종료하세요.
 
 ## 환경
-- 작업 디렉토리: `~/Claude/Claude-Core/ai-daily-report`
+- 작업 디렉토리: `~/Desktop/Claude-Core/ai-daily-report`
 - 이 디렉토리는 GitHub repo (`jmjung950312-cmd/ai-daily-report`)에 이미 연결됨 (로컬 git 인증 됨, push 가능)
 - 사용 가능 도구: WebSearch, WebFetch, Bash, Read, Write, Edit, Glob, Grep
 
@@ -21,7 +21,7 @@ KST 기준 오늘 날짜를 `YYYY-MM-DD`로 산출. 보고서 파일명: `YYYY-M
 ### Step 1.5. 최근 7일 보고서 컨텍스트 파악 ⭐ (중복 회피 + 트렌드 감지)
 
 ```bash
-ls ~/Claude/Claude-Core/ai-daily-report/202*.md 2>/dev/null | sort -r | head -7
+ls ~/Desktop/Claude-Core/ai-daily-report/202*.md 2>/dev/null | sort -r | head -7
 ```
 
 위 결과의 모든 파일을 Read하여 **이미 다뤄진 주요 항목·기업·키워드**를 머릿속 인덱스에 적재. 이는 다음 두 가지 핵심 룰을 위한 사전 작업:
@@ -43,7 +43,7 @@ ls ~/Claude/Claude-Core/ai-daily-report/202*.md 2>/dev/null | sort -r | head -7
 - 4일 이상 연속이면 "장기 화제" 표시, 7일 이상이면 "구조적 변화" 표시
 
 ### Step 2. 작성 가이드 숙지
-`~/Claude/Claude-Core/ai-daily-report/PROMPT_TEMPLATE.md`를 Read. 이게 마스터 사양이며 보고서 구조·톤·규칙을 정의함.
+`~/Desktop/Claude-Core/ai-daily-report/PROMPT_TEMPLATE.md`를 Read. 이게 마스터 사양이며 보고서 구조·톤·규칙을 정의함.
 
 톤·구조 예시: `2026-04-27.md` 참고. **단, 그 파일은 7일 종합본이라 오늘 보고서에 같은 내용을 옮겨오지 말 것** — 위 룰 A 적용.
 
@@ -82,7 +82,7 @@ WebSearch 6개 쿼리를 한 번에 병렬 실행 (PROMPT_TEMPLATE.md Step 2 참
 
 ### Step 6. Git commit & push
 ```bash
-cd ~/Claude/Claude-Core/ai-daily-report
+cd ~/Desktop/Claude-Core/ai-daily-report
 git add YYYY-MM-DD.md INDEX.md
 git commit -m "AI 일일 보고서 추가: YYYY-MM-DD"
 git push origin main

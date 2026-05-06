@@ -3,7 +3,7 @@
 # launchd가 매일 07:45 KST에 호출. Mac 잠자던 중이면 깨어날 때 자동 실행.
 
 set -u
-REPO_DIR="$HOME/Desktop/Claude-Core/ai-daily-report"
+REPO_DIR="$HOME/Claude/Claude-Core/ai-daily-report"
 LOG_DIR="$HOME/Library/Logs/ai-daily-report"
 LOG_FILE="$LOG_DIR/pull.log"
 TODAY_KST=$(TZ=Asia/Seoul date +%Y-%m-%d)
