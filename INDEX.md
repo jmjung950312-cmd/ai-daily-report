@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-05-06 | [전일 동향](./2026-05-06.md) | Claude Opus 4.7 출시, Anthropic 금융 에이전트 10종 + Blackstone JV, Google Cloud $200B 약정 |
 | 2026-05-04 | [전일 동향](./2026-05-04.md) | Mistral Medium 3.5 (128B Dense, 77.6% SWE-Bench), Le Chat Work Mode, Pentagon-Anthropic 내부저항 |
 | 2026-05-03 | [전일 동향](./2026-05-03.md) | Claude Code v2.1.126 버그패치, OpenAI-AWS Bedrock 입성, MCP 9700만 설치 표준화 |
 | 2026-05-02 | [전일 동향](./2026-05-02.md) | Pentagon 8개사 기밀 AI 계약 (Anthropic 배제), Claude Security 퍼블릭 베타, Grok 4.3 API 정식 출시 |
