@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-05-06 | [전일 동향 보완판](./2026-05-06-rerun.md) | Google Gemini 대규모 장애, Verisk MCP 통합, AI 가용성 인프라화 |
 | 2026-05-06 | [전일 동향](./2026-05-06.md) | Claude Opus 4.7 출시, Anthropic 금융 에이전트 10종 + Blackstone JV, Google Cloud $200B 약정 |
 | 2026-05-04 | [전일 동향](./2026-05-04.md) | Mistral Medium 3.5 (128B Dense, 77.6% SWE-Bench), Le Chat Work Mode, Pentagon-Anthropic 내부저항 |
 | 2026-05-03 | [전일 동향](./2026-05-03.md) | Claude Code v2.1.126 버그패치, OpenAI-AWS Bedrock 입성, MCP 9700만 설치 표준화 |
