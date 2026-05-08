@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-05-08 | [전일 동향](./2026-05-08.md) | OpenAI 음성 API 3종 (Realtime-2·Translate·Whisper), Pentagon CTO "절대 없다" 급전직하, Anthropic 소비자 전략 전환 |
 | 2026-05-07 | [전일 동향](./2026-05-07.md) | SpaceX 컴퓨팅 딜 + Claude Code 한도 2배, Dreaming 자기개선 에이전트, Code with Claude 2026 컨퍼런스 |
 | 2026-05-06 | [전일 동향 보완판](./2026-05-06-rerun.md) | Google Gemini 대규모 장애, Verisk MCP 통합, AI 가용성 인프라화 |
 | 2026-05-06 | [전일 동향](./2026-05-06.md) | Claude Opus 4.7 출시, Anthropic 금융 에이전트 10종 + Blackstone JV, Google Cloud $200B 약정 |
