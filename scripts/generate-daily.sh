@@ -18,6 +18,14 @@ echo "===== $TIMESTAMP — 보고서 생성 시작 =====" >> "$LOG_FILE"
 
 cd "$REPO_DIR" || { echo "❌ repo 진입 실패" >> "$LOG_FILE"; exit 1; }
 
+# 가드: 오늘 보고서가 이미 있으면 즉시 종료 (재시도 trigger가 비용 안 쓰게)
+# launchd는 매시간 발화하지만, 첫 성공 후에는 이 가드가 후속 실행을 컷.
+if [ -f "${TODAY_KST}.md" ] || [ -f "${TODAY_KST}-rerun.md" ]; then
+  echo "ℹ️  ${TODAY_KST} 보고서 이미 존재 — 재시도 스킵 (정상)" >> "$LOG_FILE"
+  echo "===== 종료: $(date +"%H:%M:%S") (skip) =====" >> "$LOG_FILE"
+  exit 0
+fi
+
 # launchd는 PATH가 최소 — claude CLI 위치 명시
 CLAUDE_BIN="/Users/jungmo/.local/bin/claude"
 if [ ! -x "$CLAUDE_BIN" ]; then
