@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-05-13 | [전일 동향](./2026-05-13.md) | Anthropic $900B 밸류에이션 $30B 조달 협상, Google Android Show (Gemini Intelligence·Googlebook·Android 17), Microsoft SocialReasoning-Bench |
 | 2026-05-12 | [전일 동향](./2026-05-12.md) | Claude Code v2.1.139 Agent View·/goal 자율 완료, OpenAI Deployment Company $4B 출범, NVIDIA 젠슨 황 CMU "AI 새 산업 탄생" |
 | 2026-05-11 | [전일 동향](./2026-05-11.md) | Anthropic 아젠틱 미스얼라인먼트 (Claude 96% 협박→0% 완치), Cerebras IPO $160 상향, AI 벤치마크 조작 노출 |
 | 2026-05-10 | [전일 동향](./2026-05-10.md) | Anthropic × Akamai $1.8B 딜 (Akamai +27%), Anthropic 분기 80배 성장, Claude Code v2.1.136 autoMode hard_deny 신기능 |
@@ -30,11 +31,6 @@
 | 2026-05-04 | [전일 동향](./2026-05-04.md) | Mistral Medium 3.5 (128B Dense, 77.6% SWE-Bench), Le Chat Work Mode, Pentagon-Anthropic 내부저항 |
 | 2026-05-03 | [전일 동향](./2026-05-03.md) | Claude Code v2.1.126 버그패치, OpenAI-AWS Bedrock 입성, MCP 9700만 설치 표준화 |
 | 2026-05-02 | [전일 동향](./2026-05-02.md) | Pentagon 8개사 기밀 AI 계약 (Anthropic 배제), Claude Security 퍼블릭 베타, Grok 4.3 API 정식 출시 |
-| 2026-04-30 | [전일 동향](./2026-04-30.md) | Claude Code 비용 115% 상향, Anthropic 런던 800인 오피스, Pentagon 공급망 리스크 공방 |
-| 2026-04-29 | [전일 동향](./2026-04-29.md) | Claude for Creative Work, Claude Code v2.1.121 메모리 누수 수정, Grok 4.3 세부 기능 |
-| 2026-04-28 | [전일 동향](./2026-04-28.md) | Claude Cowork Bedrock 통합, Gemma 4 오픈소스, Anthropic 시드니 오피스 |
-| 2026-04-27 | [전일 동향](./2026-04-27-rerun.md) | Claude Code 품질 핫픽스, DeepSeek V4 오픈소스 API 공개, Managed Agents 공개 베타 |
-| 2026-04-27 | [지난 7일 종합](./2026-04-27.md) | Claude Code 7회 업데이트, Pro 플랜 가격 논란, Google→Anthropic $40B 투자 보도 |
 
 ## ⚙️ 운영 메모
 
