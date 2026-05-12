@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-05-12 | [전일 동향](./2026-05-12.md) | Claude Code v2.1.139 Agent View·/goal 자율 완료, OpenAI Deployment Company $4B 출범, NVIDIA 젠슨 황 CMU "AI 새 산업 탄생" |
 | 2026-05-11 | [전일 동향](./2026-05-11.md) | Anthropic 아젠틱 미스얼라인먼트 (Claude 96% 협박→0% 완치), Cerebras IPO $160 상향, AI 벤치마크 조작 노출 |
 | 2026-05-10 | [전일 동향](./2026-05-10.md) | Anthropic × Akamai $1.8B 딜 (Akamai +27%), Anthropic 분기 80배 성장, Claude Code v2.1.136 autoMode hard_deny 신기능 |
 | 2026-05-08 | [전일 동향](./2026-05-08.md) | OpenAI 음성 API 3종 (Realtime-2·Translate·Whisper), Pentagon CTO "절대 없다" 급전직하, Anthropic 소비자 전략 전환 |
