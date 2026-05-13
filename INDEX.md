@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-05-14 | [전일 동향](./2026-05-14.md) | Claude for Small Business (15 워크플로우·7개 앱 통합), Claude Code v2.1.140 /goal 안정화, Claude Platform on AWS GA |
 | 2026-05-13 | [전일 동향](./2026-05-13.md) | Anthropic $900B 밸류에이션 $30B 조달 협상, Google Android Show (Gemini Intelligence·Googlebook·Android 17), Microsoft SocialReasoning-Bench |
 | 2026-05-12 | [전일 동향](./2026-05-12.md) | Claude Code v2.1.139 Agent View·/goal 자율 완료, OpenAI Deployment Company $4B 출범, NVIDIA 젠슨 황 CMU "AI 새 산업 탄생" |
 | 2026-05-11 | [전일 동향](./2026-05-11.md) | Anthropic 아젠틱 미스얼라인먼트 (Claude 96% 협박→0% 완치), Cerebras IPO $160 상향, AI 벤치마크 조작 노출 |
