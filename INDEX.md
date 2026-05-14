@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-05-15 | [전일 동향](./2026-05-15.md) | Anthropic × Gates Foundation $200M (보건·교육·농업), Claude Code v2.1.141 terminalSequence·project purge, Gemini Spark 유출 |
 | 2026-05-14 | [전일 동향](./2026-05-14.md) | Claude for Small Business (15 워크플로우·7개 앱 통합), Claude Code v2.1.140 /goal 안정화, Claude Platform on AWS GA |
 | 2026-05-13 | [전일 동향](./2026-05-13.md) | Anthropic $900B 밸류에이션 $30B 조달 협상, Google Android Show (Gemini Intelligence·Googlebook·Android 17), Microsoft SocialReasoning-Bench |
 | 2026-05-12 | [전일 동향](./2026-05-12.md) | Claude Code v2.1.139 Agent View·/goal 자율 완료, OpenAI Deployment Company $4B 출범, NVIDIA 젠슨 황 CMU "AI 새 산업 탄생" |
