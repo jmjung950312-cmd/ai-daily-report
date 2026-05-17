@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-05-18 | [전일 동향](./2026-05-18.md) | Grok Build 출시 (xAI CLI 코딩 에이전트 첫 등장·Claude Code 경쟁), Google I/O D-2 (새 Gemini "Mythos·GPT-5.5 아래"), AI 해고 발표 → 주가 하락 (CNBC) |
 | 2026-05-17 | [전일 동향](./2026-05-17.md) | Claude Mythos × 일본 메가뱅크 접근 협상 (Glasswing 국제 첫 확장), Google I/O D-2 (Gemini 4·agentic coding 도구), AI 검색 트래픽 역전 (ChatGPT 12개월 최저·AEO 부상) |
 | 2026-05-16 | [전일 동향](./2026-05-16.md) | Claude Code v2.1.142·143 (Fast Mode→Opus 4.7, 플러그인 의존성), 제3자 에이전트 별도 과금 (6/15~), PwC $100M 파트너십 |
 | 2026-05-15 | [전일 동향](./2026-05-15.md) | Anthropic × Gates Foundation $200M (보건·교육·농업), Claude Code v2.1.141 terminalSequence·project purge, Gemini Spark 유출 |
