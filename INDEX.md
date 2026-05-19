@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-05-20 | [전일 동향](./2026-05-20.md) | Google I/O 2026 결과 (Gemini Spark 상시 에이전트·AI Ultra $250→$100), KPMG+Hitachi × Anthropic (56만 6천명), Claude Code v2.1.144 (52개 변화) |
 | 2026-05-19 | [전일 동향](./2026-05-19.md) | Anthropic × Stainless 인수 $300M (OpenAI·Google도 쓰던 SDK 공장), 교황 × Anthropic 공동창업자 AI 회칙 "Magnifica Humanitas" 5/25, OpenAI × Dell Codex 온프레미스 엔터프라이즈 |
 | 2026-05-18 | [전일 동향](./2026-05-18.md) | Grok Build 출시 (xAI CLI 코딩 에이전트 첫 등장·Claude Code 경쟁), Google I/O D-2 (새 Gemini "Mythos·GPT-5.5 아래"), AI 해고 발표 → 주가 하락 (CNBC) |
 | 2026-05-17 | [전일 동향](./2026-05-17.md) | Claude Mythos × 일본 메가뱅크 접근 협상 (Glasswing 국제 첫 확장), Google I/O D-2 (Gemini 4·agentic coding 도구), AI 검색 트래픽 역전 (ChatGPT 12개월 최저·AEO 부상) |
