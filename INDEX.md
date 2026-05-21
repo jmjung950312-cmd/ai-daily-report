@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-05-22 | [전일 동향](./2026-05-22.md) | BMS × Anthropic (세계 10대 제약사 신약 개발 전 단계 Claude 배포), Anthropic 첫 분기 흑자 근접 ($10.9B + SpaceX $1.25B/월), OpenAI Erdős 수학 추측 80년만에 AI 최초 증명 |
 | 2026-05-21 | [전일 동향](./2026-05-21.md) | OpenAI × Google SynthID·C2PA (AI 이미지 진위 확인 인프라), Claude Code v2.1.145 (agents --json 스크립팅), Anthropic "Widening the conversation" (철학자·종교인과 AI 개발) |
 | 2026-05-20 | [전일 동향](./2026-05-20.md) | Google I/O 2026 결과 (Gemini Spark 상시 에이전트·AI Ultra $250→$100), KPMG+Hitachi × Anthropic (56만 6천명), Claude Code v2.1.144 (52개 변화) |
 | 2026-05-19 | [전일 동향](./2026-05-19.md) | Anthropic × Stainless 인수 $300M (OpenAI·Google도 쓰던 SDK 공장), 교황 × Anthropic 공동창업자 AI 회칙 "Magnifica Humanitas" 5/25, OpenAI × Dell Codex 온프레미스 엔터프라이즈 |
