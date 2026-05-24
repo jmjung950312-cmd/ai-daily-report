@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-05-25 | [전일 동향](./2026-05-25.md) | 교황 레오 14세 Magnifica Humanitas 발표 (AI 노동자 권리·인간 존엄성), Anthropic 공동창업자 Christopher Olah 바티칸 연단 동석, GPT-5.5 Instant 안전성 52% 개선 |
 | 2026-05-24 | [전일 동향](./2026-05-24.md) | Project Glasswing 1차 성과 (Claude Mythos 1만개+ 보안 버그 발견·Cloudflare·Mozilla), Anthropic × Microsoft Maia 칩 협상, Claude Code v2.1.149 /usage 카테고리 분석 |
 | 2026-05-23 | [전일 동향](./2026-05-23.md) | Anthropic $30B 펀딩 마무리 임박 ($900B 기업 가치 · OpenAI 추월), Karpathy (OpenAI 공동창업자) Anthropic 합류, OpenAI Codex Goal Mode GA + Appshots |
 | 2026-05-22 | [전일 동향](./2026-05-22.md) | BMS × Anthropic (세계 10대 제약사 신약 개발 전 단계 Claude 배포), Anthropic 첫 분기 흑자 근접 ($10.9B + SpaceX $1.25B/월), OpenAI Erdős 수학 추측 80년만에 AI 최초 증명 |
