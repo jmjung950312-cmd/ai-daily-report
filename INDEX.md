@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-05-28 | [전일 동향](./2026-05-28.md) | Meta One 구독 출시·Claude Code /usage MCP서버별 세분화·AI 수익화 삼파전 |
 | 2026-05-27 | [전일 동향](./2026-05-27.md) | Claude Mythos 공개 조건 공식화 ("안전장치 완료 시" + claude-mythos-1-preview 소스 발견), Gemini CLI→Antigravity CLI 전환, ChatGPT Excel·Google Sheets 전면 개방 |
 | 2026-05-26 | [전일 동향](./2026-05-26.md) | Microsoft Claude Code 철수 (6/30 Experiences&Devices 차단·Uber 예산 4개월 소진), ECB 긴급회의 Claude Mythos 금융 인프라 위협, Anthropic IPO 가을 준비·Dreaming 영구 메모리 |
 | 2026-05-25 | [전일 동향](./2026-05-25.md) | 교황 레오 14세 Magnifica Humanitas 발표 (AI 노동자 권리·인간 존엄성), Anthropic 공동창업자 Christopher Olah 바티칸 연단 동석, GPT-5.5 Instant 안전성 52% 개선 |
@@ -40,11 +41,6 @@
 | 2026-05-08 | [전일 동향](./2026-05-08.md) | OpenAI 음성 API 3종 (Realtime-2·Translate·Whisper), Pentagon CTO "절대 없다" 급전직하, Anthropic 소비자 전략 전환 |
 | 2026-05-07 | [전일 동향](./2026-05-07.md) | SpaceX 컴퓨팅 딜 + Claude Code 한도 2배, Dreaming 자기개선 에이전트, Code with Claude 2026 컨퍼런스 |
 | 2026-05-06 | [전일 동향 보완판](./2026-05-06-rerun.md) | Google Gemini 대규모 장애, Verisk MCP 통합, AI 가용성 인프라화 |
-| 2026-05-06 | [전일 동향](./2026-05-06.md) | Claude Opus 4.7 출시, Anthropic 금융 에이전트 10종 + Blackstone JV, Google Cloud $200B 약정 |
-| 2026-05-05 | [당일 동향 (회고)](./2026-05-05.md) | Anthropic Wall Street 접수 (Opus 4.7 + 금융 에이전트 10종), GPT-5.5 Instant, Gemini 대규모 장애 |
-| 2026-05-04 | [전일 동향](./2026-05-04.md) | Mistral Medium 3.5 (128B Dense, 77.6% SWE-Bench), Le Chat Work Mode, Pentagon-Anthropic 내부저항 |
-| 2026-05-03 | [전일 동향](./2026-05-03.md) | Claude Code v2.1.126 버그패치, OpenAI-AWS Bedrock 입성, MCP 9700만 설치 표준화 |
-| 2026-05-02 | [전일 동향](./2026-05-02.md) | Pentagon 8개사 기밀 AI 계약 (Anthropic 배제), Claude Security 퍼블릭 베타, Grok 4.3 API 정식 출시 |
 
 ## ⚙️ 운영 메모
 
