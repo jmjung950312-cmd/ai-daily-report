@@ -37,6 +37,16 @@ WebSearch가 부족하면 다음 사이트를 WebFetch로 직접 조회:
 - https://futuretools.io/news
 - https://aiweekly.co/
 
+GitHub Weekly Trending (2026-05-28 4-1 추가 — 요즘 엔지니어 동향 자동 흡수):
+다음 두 URL을 매일 WebFetch — 주간 윈도우라 데이터 변화는 느리지만 매일 노출이 자비스 STATUS 인지에 일관성 제공:
+- https://github.com/trending?since=weekly (주간 trending repo)
+- https://github.com/trending/developers?since=weekly (주간 trending developer)
+
+추출 기준:
+- repo: 상위 5개 — name / language / star 증가 / 한 줄 설명
+- developer: 상위 3명 — name / 대표 repo
+- 하네스 엔지니어링·AI 에이전트·자동화 도구 관련은 ⭐ 표시
+
 ### Step 3. 보고서 작성
 파일명: `YYYY-MM-DD.md` (KST 기준 오늘)
 저장 위치: 리포 루트
@@ -80,6 +90,24 @@ WebSearch가 부족하면 다음 사이트를 WebFetch로 직접 조회:
 ## 🔬 트렌드 한 컷
 - 1개 주제만 깊이 (논문/벤치마크/정책/에이전트 패턴)
 - **반드시 비유로 설명** (전문용어 → 일상어)
+
+## 🐙 GitHub Weekly Trending — 요즘 엔지니어들은 어떻게 하나
+> 2026-05-28 4-1 신설. 출처: github.com/trending?since=weekly + /developers?since=weekly
+> 목적: 자비스가 옛 엔지니어링만 활용하지 않도록, 주간 hot repo·developer를 매일 한 컷으로 노출.
+
+### Trending Repo TOP 5
+| Repo | Language | Star↑ | 한 줄 |
+|---|---|---|---|
+| {name} | {lang} | {증가} | {설명} {⭐ 하네스·AI 에이전트·자동화 도구 관련 시 표시} |
+
+### Trending Developer TOP 3
+| Developer | 대표 Repo | 영역 |
+|---|---|---|
+| {name} | {repo} | {AI / 에이전트 / 자동화 등} |
+
+### 자비스 흡수 후보 (⭐ 표시 항목 중 1-2개)
+- {repo/dev명} — 자비스에 흡수 가능한 패턴 1줄 (있으면)
+- 없으면 "이번 주는 흡수 후보 없음"
 
 ## 💡 이번 주 활용 아이디어
 - ⏱️ 15분으로 시도: 2~3개
