@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-06-01 | [전일 동향](./2026-06-01.md) | Cursor 3.6 /loop+멀티레포·Cognition Devin $26B·일리노이 AI 안전법 통과 |
 | 2026-05-31 | [전일 동향](./2026-05-31.md) | Google Antigravity 2.0 공식 빌드 출시·KPMG+Big Three 110만+ 클로드 배포·Claude Code Auto Mode on Bedrock/Vertex |
 | 2026-05-30 | [전일 동향](./2026-05-30.md) | OpenAI Rosalind Biodefense 출시·Gemini 3.5 Flash 전체 GA·Claude Managed Agents 웹훅+AWS 셀프호스팅 샌드박스 |
 | 2026-05-29 | [전일 동향](./2026-05-29.md) | Anthropic Series H $65B ($965B 밸류에이션·$47B 매출)·Claude Opus 4.8 Dynamic Workflows·Gemini 이미지 GA 영상→이미지 |
