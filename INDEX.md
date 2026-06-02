@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-06-03 | [전일 동향](./2026-06-03.md) | Microsoft Build 2026·Project Polaris(GitHub Copilot OpenAI 교체)·WSL 3 GPU 직접 연결 |
 | 2026-06-02 | [전일 동향](./2026-06-02.md) | Anthropic 비밀 IPO 제출·구독 프로그래밍 크레딧 분리(6/15)·MiniMax M3 출시 |
 | 2026-06-01 | [전일 동향](./2026-06-01.md) | Cursor 3.6 /loop+멀티레포·Cognition Devin $26B·일리노이 AI 안전법 통과 |
 | 2026-05-31 | [전일 동향](./2026-05-31.md) | Google Antigravity 2.0 공식 빌드 출시·KPMG+Big Three 110만+ 클로드 배포·Claude Code Auto Mode on Bedrock/Vertex |
