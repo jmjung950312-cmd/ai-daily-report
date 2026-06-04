@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-06-05 | [전일 동향](./2026-06-05.md) | OpenAI Dreaming V3(ChatGPT 장기 메모리 82.8%)·Codex 비개발자 역할별 플러그인·GPT-Rosalind 생물방어 확장 |
 | 2026-06-04 | [전일 동향](./2026-06-04.md) | MAI-Thinking-1(Microsoft 자체 추론 AI·OpenAI 無)·Project Glasswing ICE·NYSE 합류·트럼프 AI 행정명령 |
 | 2026-06-03 | [전일 동향](./2026-06-03.md) | Microsoft Build 2026·Project Polaris(GitHub Copilot OpenAI 교체)·WSL 3 GPU 직접 연결 |
 | 2026-06-02 | [전일 동향](./2026-06-02.md) | Anthropic 비밀 IPO 제출·구독 프로그래밍 크레딧 분리(6/15)·MiniMax M3 출시 |
