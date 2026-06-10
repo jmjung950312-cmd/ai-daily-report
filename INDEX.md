@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-06-11 | [전일 동향](./2026-06-11.md) | Anthropic $200M 일자리 충격 연구·Google Gemini 전 세계 6시간+ 장애·Microsoft 직원 Claude Fable 5 제한(30일 데이터 보존) |
 | 2026-06-10 | [전일 동향](./2026-06-10.md) | Claude Fable 5 출시(Mythos 클래스 최초 공개·6/22 무료)·Apple WWDC Siri AI Google Gemini 재탄생·OpenAI IPO 공식 신청($1T) |
 | 2026-06-08 | [전일 동향](./2026-06-08.md) | ChatGPT 슈퍼앱 개편("Chat is dead")·Apple WWDC Siri 2.0 on Gemini·미국 연방 AI법 주별 규제 3년 동결 초안 |
 | 2026-06-06 | [전일 동향](./2026-06-06.md) | Anthropic "When AI Builds Itself"(Claude 코드 80%·글로벌 일시 정지 요구)·Nemotron 3 Super SWE-bench 60.47%·Gemini CLI 6/18 종료 |
