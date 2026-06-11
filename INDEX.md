@@ -21,7 +21,9 @@
 |---|---|---|
 | 2026-06-11 | [전일 동향](./2026-06-11.md) | Anthropic $200M 일자리 충격 연구·Google Gemini 전 세계 6시간+ 장애·Microsoft 직원 Claude Fable 5 제한(30일 데이터 보존) |
 | 2026-06-10 | [전일 동향](./2026-06-10.md) | Claude Fable 5 출시(Mythos 클래스 최초 공개·6/22 무료)·Apple WWDC Siri AI Google Gemini 재탄생·OpenAI IPO 공식 신청($1T) |
+| 2026-06-09 | [전일 동향](./2026-06-09.md) | 미 국방부 Claude 교체 레이스·OpenAI ChatGPT Dreaming 메모리 롤아웃·EU AI Act 시행 D-55 |
 | 2026-06-08 | [전일 동향](./2026-06-08.md) | ChatGPT 슈퍼앱 개편("Chat is dead")·Apple WWDC Siri 2.0 on Gemini·미국 연방 AI법 주별 규제 3년 동결 초안 |
+| 2026-06-07 | [전일 동향](./2026-06-07.md) | 트럼프+샌더스 정부 AI 지분 논쟁·Anthropic Defending Code Reference Harness·Gemini 3.5 Pro 2M 컨텍스트 임박 |
 | 2026-06-06 | [전일 동향](./2026-06-06.md) | Anthropic "When AI Builds Itself"(Claude 코드 80%·글로벌 일시 정지 요구)·Nemotron 3 Super SWE-bench 60.47%·Gemini CLI 6/18 종료 |
 | 2026-06-05 | [전일 동향](./2026-06-05.md) | OpenAI Dreaming V3(ChatGPT 장기 메모리 82.8%)·Codex 비개발자 역할별 플러그인·GPT-Rosalind 생물방어 확장 |
 | 2026-06-04 | [전일 동향](./2026-06-04.md) | MAI-Thinking-1(Microsoft 자체 추론 AI·OpenAI 無)·Project Glasswing ICE·NYSE 합류·트럼프 AI 행정명령 |
