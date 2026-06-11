@@ -60,17 +60,18 @@ if [ -f "$TODAY_FILE" ] || [ -f "$RERUN_FILE" ]; then
   /usr/bin/git add "$(basename "$ACTUAL_FILE")" INDEX.md 2>>"$LOG_FILE"
   if /usr/bin/git diff --cached --quiet; then
     echo "ℹ️  git: 변경사항 없음 (이미 commit됨)" >> "$LOG_FILE"
-    GIT_STATUS="동기화됨"
   else
     /usr/bin/git -c user.email="jmjung950312@gmail.com" -c user.name="ai-daily-report-bot" commit -m "AI 일일 보고서 추가: ${TODAY_KST}" >>"$LOG_FILE" 2>&1
-    PUSH_OUTPUT=$(/usr/bin/git push origin main 2>&1)
-    PUSH_EXIT=$?
-    echo "$PUSH_OUTPUT" >> "$LOG_FILE"
-    if [ $PUSH_EXIT -eq 0 ]; then
-      GIT_STATUS="GitHub push 완료"
-    else
-      GIT_STATUS="⚠️ push 실패 (commit은 로컬에 있음)"
-    fi
+  fi
+
+  # claude가 commit만 하고 push를 못 한 경우(HiL 게이트 등)에도 셸이 항상 push (2026-06-11 fix)
+  PUSH_OUTPUT=$(/usr/bin/git push origin main 2>&1)
+  PUSH_EXIT=$?
+  echo "$PUSH_OUTPUT" >> "$LOG_FILE"
+  if [ $PUSH_EXIT -eq 0 ]; then
+    GIT_STATUS="GitHub push 완료"
+  else
+    GIT_STATUS="⚠️ push 실패 (commit은 로컬에 있음)"
   fi
 
   # 알림
