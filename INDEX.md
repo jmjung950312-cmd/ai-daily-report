@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-06-13 | [전일 동향](./2026-06-13.md) | Microsoft Claude Fable 5 전면 금지(데이터 30일 보관)·SpaceX SPCX $75B IPO·ChatGPT 10억 돌파 |
 | 2026-06-12 | [전일 동향](./2026-06-12.md) | Visa+OpenAI AI가 직접 쇼핑·ChatGPT 52.7%로 추락·Claude 트래픽 5배·독일 법원 AI오답 Google 책임 |
 | 2026-06-11 | [전일 동향](./2026-06-11.md) | Anthropic $200M 일자리 충격 연구·Google Gemini 전 세계 6시간+ 장애·Microsoft 직원 Claude Fable 5 제한(30일 데이터 보존) |
 | 2026-06-10 | [전일 동향](./2026-06-10.md) | Claude Fable 5 출시(Mythos 클래스 최초 공개·6/22 무료)·Apple WWDC Siri AI Google Gemini 재탄생·OpenAI IPO 공식 신청($1T) |
