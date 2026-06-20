@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-06-20 | [전일 동향](./2026-06-20.md) | Fable 5 차단 전말 공개(SK텔레콤 방아쇠·David Sacks 최후통첩·Amodei 거부·76명 반대 서명)·WARP 공격(Reddit 13단어로 AI 검색 오염)·Anthropic Okta MCP 엔터프라이즈 제로터치 |
 | 2026-06-19 | [전일 동향](./2026-06-19.md) | Noam Shazeer(트랜스포머 공동 발명자) Google→OpenAI 이적·Claude Design Code 동기화 대규모 업데이트·Gemini CLI 6/18 정식 종료·DeepSeek 창사 첫 Series A 9조 원 |
 | 2026-06-18 | [전일 동향](./2026-06-18.md) | G7 AI CEO 오찬 결과(Amodei 미국 주도 AI 연합 제안·합의 없음 권력 지도만 확인)·Google Pixel Drop Android 17(Gemini Omni 2 영상+음악 생성)·OpenAI Q1 $3.7B 소진+비밀 IPO 신청 |
 | 2026-06-17 | [전일 동향](./2026-06-17.md) | Claude 인프라 12일 10번째 장애(Anthropic 공식 한계 인정·$9B→$30B 급성장)·Claude Code Tool(param:value) 권한 구문+중첩 .claude·G7 에비앙 AI 거버넌스 2일차 |
