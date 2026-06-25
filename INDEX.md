@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-06-26 | [전일 동향](./2026-06-26.md) | Claude Code v2.1.191 `/rewind`(대화 되감기) 첫 등장+스트리밍 CPU 37% 감소·OpenAI+Broadcom LLM 전용 추론 칩 공동 발표·GPT-5.3-Codex(SWE-Bench 최고점·25% 빠른 에이전트 코딩 모델) |
 | 2026-06-25 | [전일 동향](./2026-06-25.md) | GPT-5.6 6월 창 붕괴(Polymarket 83%→18%)·Claude Code 위험 Git 명령어 자동 차단 보안 강화·Micron-Anthropic 전략 협약+Series H 투자(Micron 사상 최고가) |
 | 2026-06-24 | [전일 동향](./2026-06-24.md) | Claude Tag Slack 출시(팀 공유 AI 에이전트)·노벨상 수상자 John Jumper DeepMind→Anthropic(Alphabet 주가 7% 급락)·Anthropic 생체인증 정책 시행 |
 | 2026-06-23 | [전일 동향](./2026-06-23.md) | GPT-5.6 출시 창 D+1(출시 없음·Polymarket 90%)·Google Gemini Managed Agents 공개 프리뷰(서버 없이 에이전트 배포)·ChatGPT 점유율 사상 첫 50% 이하 |
