@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-06-29 | [전일 동향](./2026-06-29.md) | Claude API 3단계 통합(Start·Build·Scale)·Sonnet·Haiku 한도 Opus 수준 인상·Google Gemini 컴퓨팅 부족으로 Meta 사용 제한·Fable 5 D+16(Pentagon·NSA 미승인) |
 | 2026-06-28 | [전일 동향](./2026-06-28.md) | Mythos 5 D+15 부분 해제(핵심 인프라 100곳)·Fable 5 "이번 주 내" 복구 임박·ARD 에이전틱 자원 탐색 표준(Big Tech 8사 공동 발표) |
 | 2026-06-27 | [전일 동향](./2026-06-27.md) | GPT-5.6 Sol/Terra/Luna 한정 프리뷰(정부 승인 20개사)·Anthropic-Alibaba AI 증류 도용 28.8M건 미 상원 폭로·Google→Anthropic 6일 4명 이적+Alphabet 시총 $2,700억 증발 |
 | 2026-06-26 | [전일 동향](./2026-06-26.md) | Claude Code v2.1.191 `/rewind`(대화 되감기) 첫 등장+스트리밍 CPU 37% 감소·OpenAI+Broadcom LLM 전용 추론 칩 공동 발표·GPT-5.3-Codex(SWE-Bench 최고점·25% 빠른 에이전트 코딩 모델) |
