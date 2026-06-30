@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-07-01 | [전일 동향](./2026-07-01.md) | Claude Sonnet 5 출시(1M 토큰·Claude Code 기본 모델 교체·$2/$10 소개가)·Claude Code 루프 공식 가이드+스트리밍 와치독 기본 활성화·Fable 5 D+18(복구 미정) |
 | 2026-06-29 | [전일 동향](./2026-06-29.md) | Claude API 3단계 통합(Start·Build·Scale)·Sonnet·Haiku 한도 Opus 수준 인상·Google Gemini 컴퓨팅 부족으로 Meta 사용 제한·Fable 5 D+16(Pentagon·NSA 미승인) |
 | 2026-06-28 | [전일 동향](./2026-06-28.md) | Mythos 5 D+15 부분 해제(핵심 인프라 100곳)·Fable 5 "이번 주 내" 복구 임박·ARD 에이전틱 자원 탐색 표준(Big Tech 8사 공동 발표) |
 | 2026-06-27 | [전일 동향](./2026-06-27.md) | GPT-5.6 Sol/Terra/Luna 한정 프리뷰(정부 승인 20개사)·Anthropic-Alibaba AI 증류 도용 28.8M건 미 상원 폭로·Google→Anthropic 6일 4명 이적+Alphabet 시총 $2,700억 증발 |
