@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-07-03 | [전일 동향](./2026-07-03.md) | Claude Code 2.1.198 백그라운드 에이전트 자율 PR 개설·Fable 5 Remote Labor Index 16.1% 역대 최고·Abu Dhabi MGX $49B AI 펀드 역대 최대 |
 | 2026-07-02 | [전일 동향](./2026-07-02.md) | Fable 5 D+19 전 세계 복구(수출 통제 해제·새 안전 분류기·Pro 7/7까지 50% 무료)·Claude Code 스테가노그래피 논란(중국 탐지 코드 3개월 은닉·7/2 제거)·Claude Science 베타+업계 공동 탈옥 심각도 프레임워크 |
 | 2026-07-01 | [전일 동향](./2026-07-01.md) | Claude Sonnet 5 출시(1M 토큰·Claude Code 기본 모델 교체·$2/$10 소개가)·Claude Code 루프 공식 가이드+스트리밍 와치독 기본 활성화·Fable 5 D+18(복구 미정) |
 | 2026-06-29 | [전일 동향](./2026-06-29.md) | Claude API 3단계 통합(Start·Build·Scale)·Sonnet·Haiku 한도 Opus 수준 인상·Google Gemini 컴퓨팅 부족으로 Meta 사용 제한·Fable 5 D+16(Pentagon·NSA 미승인) |
