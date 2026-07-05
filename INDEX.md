@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-07-06 | [전일 동향](./2026-07-06.md) | GPT-5.6 Sol/Terra/Luna 세부 사양 확정(Terra $2.50/$15·Luna $1/$6)·GeneBench-Pro 생물학 벤치마크 OpenAI 31.5% vs Anthropic 16%·Grok 5 Q4 전망 |
 | 2026-07-05 | [전일 동향](./2026-07-05.md) | Alibaba Claude Code 전면 금지(7/10·Qoder 교체)·Anthropic 25K 계정 28M건 모델 도용 고발·pxpipe 텍스트→PNG 비용 59~70% 절감 오픈소스 |
 | 2026-07-04 | [전일 동향](./2026-07-04.md) | Claude Code 2.1.199·2.1.200 하루 두 번 업데이트·기본값 Manual 전환·Anthropic 중국 기업 우회 접근 차단·Mistral Leanstral 1.5 오픈소스 수학 추론 최고 성능 |
 | 2026-07-03 | [전일 동향](./2026-07-03.md) | Claude Code 2.1.198 백그라운드 에이전트 자율 PR 개설·Fable 5 Remote Labor Index 16.1% 역대 최고·Abu Dhabi MGX $49B AI 펀드 역대 최대 |
