@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-07-10 | [전일 동향](./2026-07-10.md) | GPT-5.6 Sol/Terra/Luna GA·ChatGPT Work 출시·Claude Reflect 사용 대시보드·Grok 4.5 공개 |
 | 2026-07-09 | [전일 동향](./2026-07-09.md) | 중국 AI OpenRouter 46% 잠식·Claude Cowork 웹·모바일 확장 + Government Desktop 베타·CC 2.1.204·205 보안 강화 |
 | 2026-07-08 | [전일 동향](./2026-07-08.md) | JADEPUFFER 세계 최초 자율 AI 랜섬웨어 Langflow CVE 무인 공격 완결·Fable 5 유료화 전환 + Claude Code 2.1.202·203 동시 출시·Anthropic TeraWulf $19B 20년 계약 + 매출 OpenAI 추월 |
 | 2026-07-07 | [전일 동향](./2026-07-07.md) | Alberta 정부 Claude 에이전트 50개로 466M 줄 코드 20h 보안점검(6.5년→20시간)·OpenAI Workspace Agents 유료화 개시·caveman Claude Code 토큰 65% 절감 오픈소스 |
