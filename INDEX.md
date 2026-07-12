@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-07-12 | [전일 동향](./2026-07-12.md) | Claude Code /doctor CLAUDE.md 다이어트·Sol 수학 난제 해결·Gemini 자동차 카메라 연동 |
 | 2026-07-11 | [전일 동향](./2026-07-11.md) | Grok 4.5 할루시네이션 54% 급등·버냉키 Anthropic 감독 합류·CC 2.1.206·Meta Zuckerberg AI 기대 미달 자백 |
 | 2026-07-10 | [전일 동향](./2026-07-10.md) | GPT-5.6 Sol/Terra/Luna GA·ChatGPT Work 출시·Claude Reflect 사용 대시보드·Grok 4.5 공개 |
 | 2026-07-09 | [전일 동향](./2026-07-09.md) | 중국 AI OpenRouter 46% 잠식·Claude Cowork 웹·모바일 확장 + Government Desktop 베타·CC 2.1.204·205 보안 강화 |
