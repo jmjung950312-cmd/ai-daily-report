@@ -19,6 +19,8 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-07-14 | [전일 동향](./2026-07-14.md) | GPT-Live 풀듀플렉스 음성·5개 빅테크 MCP 대항 동맹·Anthropic 인도 현지화 |
+| 2026-07-13 | [전일 동향](./2026-07-13.md) | GPT-5.6 Sol GA·Apple vs OpenAI 소송·Anthropic $47B 매출·Claude Fable 5 확장 |
 | 2026-07-12 | [전일 동향](./2026-07-12.md) | Claude Code /doctor CLAUDE.md 다이어트·Sol 수학 난제 해결·Gemini 자동차 카메라 연동 |
 | 2026-07-11 | [전일 동향](./2026-07-11.md) | Grok 4.5 할루시네이션 54% 급등·버냉키 Anthropic 감독 합류·CC 2.1.206·Meta Zuckerberg AI 기대 미달 자백 |
 | 2026-07-10 | [전일 동향](./2026-07-10.md) | GPT-5.6 Sol/Terra/Luna GA·ChatGPT Work 출시·Claude Reflect 사용 대시보드·Grok 4.5 공개 |
