@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-07-16 | [전일 동향](./2026-07-16.md) | Anthropic IPO 투자자 미팅 시작·AI Safety Index 2026(Anthropic C+ 최고)·Claude Code v2.1.210 |
 | 2026-07-15 | [전일 동향](./2026-07-15.md) | Claude Code 하루 2버전(v2.1.208·209)·Claude for Teachers 교육 진출·Gemini C2PA 이미지 검증 |
 | 2026-07-14 | [전일 동향](./2026-07-14.md) | GPT-Live 풀듀플렉스 음성·5개 빅테크 MCP 대항 동맹·Anthropic 인도 현지화 |
 | 2026-07-13 | [전일 동향](./2026-07-13.md) | GPT-5.6 Sol GA·Apple vs OpenAI 소송·Anthropic $47B 매출·Claude Fable 5 확장 |
