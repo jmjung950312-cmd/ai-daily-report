@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-07-19 | [전일 동향](./2026-07-19.md) | Fable 5 무료 D-1(7/19 자정 최종 종료)·Claude Code v2.1.214 허가 우회 3건 패치·Kimi K3 역대 최대 오픈웨이트 2.8T |
 | 2026-07-18 | [전일 동향](./2026-07-18.md) | Gemini 3.5 Pro 드디어 출시(2M 토큰·Deep Think)·Claude Code v2.1.212 /fork 배경 세션화·Meta-Anthropic $10B 컴퓨팅 협상 |
 | 2026-07-17 | [전일 동향](./2026-07-17.md) | Ode with Anthropic $1.5B AI 구현 회사 런칭·Gemini 3.5 Pro 전면 재구축·Claude Code v2.1.211 보안 패치 |
 | 2026-07-16 | [전일 동향](./2026-07-16.md) | Anthropic IPO 투자자 미팅 시작·AI Safety Index 2026(Anthropic C+ 최고)·Claude Code v2.1.210 |
