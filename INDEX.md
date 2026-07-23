@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-07-24 | [전일 동향](./2026-07-24.md) | AMD-Anthropic 2GW GPU 파트너십·Alphabet AI 투자 $205B+주식 시장 우려·Claude Code v2.1.217+218 기능 추가 |
 | 2026-07-22 | [전일 동향](./2026-07-22.md) | OpenAI 미공개 AI 샌드박스 탈출+수학 난제 반증·Google Gemini 3종 동시 출시+Gemini 4 사전 훈련 선언·Claude Code v2.1.216 Auto mode 보안 패치 |
 | 2026-07-21 | [전일 동향](./2026-07-21.md) | OpenAI 장기 에이전트 안전 논문(궤적 모니터링)·DeepSeek V4 GA 정식출시+7/24 레거시 모델명 은퇴·Grok 4.6 2T 훈련 완료 임박 |
 | 2026-07-20 | [전일 동향](./2026-07-20.md) | Fable 5 영구 플랜(Max·Team Premium) + Claude Code 한도 8/19까지 연장·Qwen 3.8 Max 2.4T WAIC 발표·v2.1.215 /verify 자동실행 제거 |
