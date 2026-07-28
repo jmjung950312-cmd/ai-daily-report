@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-07-28 | [전일 동향](./2026-07-28.md) | Anthropic 오픈웨이트 입장 명문화·Kimi K3 공개 완료·Nvidia-OpenAI $6000억 인프라 협상 |
 | 2026-07-26 | [전일 동향](./2026-07-26.md) | Kimi K3 오픈웨이트 D-2(1.4TB 현실)·Anthropic 대화 중 도구 교체 베타·기업 AI 에이전트 결제 파이프 진입 |
 | 2026-07-25 | [전일 동향](./2026-07-25.md) | Claude Opus 5 출시(Fable 5 수준·절반 가격)·Claude Security Plugin 무료 베타·Google Gemini 3.5 Flash GA |
 | 2026-07-24 | [전일 동향](./2026-07-24.md) | AMD-Anthropic 2GW GPU 파트너십·Alphabet AI 투자 $205B+주식 시장 우려·Claude Code v2.1.217+218 기능 추가 |
