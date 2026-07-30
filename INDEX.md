@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-07-31 | [전일 동향](./2026-07-31.md) | OpenAI GPT-5.6 Luna 80% 가격 인하·Google Gemini Robotics 2 전신 인간형 제어·EU AI 기가팩토리 €10B 공개 모집 |
 | 2026-07-30 | [전일 동향](./2026-07-30.md) | AI 직원 1100명 Pacing Letter·Anthropic AMD $50억·2GW 칩 공급 협약·OpenAI 학술 연구자 10만 무료 접근 |
 | 2026-07-29 | [전일 동향](./2026-07-29.md) | MCP 2026-07-28 stateless 전환(역대 최대 업데이트)·Kimi K3 첫날 실사용 벤치마크(전반 4위)·Google Docs Gemini 11개 언어 확장 |
 | 2026-07-28 | [전일 동향](./2026-07-28.md) | Anthropic 오픈웨이트 입장 명문화·Kimi K3 공개 완료·Nvidia-OpenAI $6000억 인프라 협상 |
