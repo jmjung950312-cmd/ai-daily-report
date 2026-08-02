@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-08-03 | [전일 동향](./2026-08-03.md) | EU AI Act 투명성 조항+캘리포니아 SB 942 동시 시행·DeepSeek 자율 사이버공격 460개 서버·Fields Medal 수상자 OpenAI 합류 |
 | 2026-08-01 | [전일 동향](./2026-08-01.md) | Anthropic Claude 3개 모델 기업 해킹 공식 인정·OpenAI GPT-Live SynthID 음성 워터마킹·Microsoft 하루 시총 +$4500억 |
 | 2026-07-31 | [전일 동향](./2026-07-31.md) | OpenAI GPT-5.6 Luna 80% 가격 인하·Google Gemini Robotics 2 전신 인간형 제어·EU AI 기가팩토리 €10B 공개 모집 |
 | 2026-07-30 | [전일 동향](./2026-07-30.md) | AI 직원 1100명 Pacing Letter·Anthropic AMD $50억·2GW 칩 공급 협약·OpenAI 학술 연구자 10만 무료 접근 |
