@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-08-06 | [전일 동향](./2026-08-06.md) | Anthropic 자체 AI 칩 설계팀 출범·Claude Enterprise Inference Hooks 베타·Grok Voice Think Fast 2.0 음성 벤치마크 1위 |
 | 2026-08-05 | [전일 동향](./2026-08-05.md) | Claude Code v2.1.221 VSCode Focus view·MCP 2026-07-28 Claude 전면 배포·Grok 4.6 8/7 출시 예정 |
 | 2026-08-04 | [전일 동향](./2026-08-04.md) | OpenAI Astra 수학 10난제 해결·Qwen 3.8 Max 2.4조 매개변수 출시·AWS GPT-5.6 Luna 80% 가격 인하 |
 | 2026-08-03 | [전일 동향](./2026-08-03.md) | EU AI Act 투명성 조항+캘리포니아 SB 942 동시 시행·DeepSeek 자율 사이버공격 460개 서버·Fields Medal 수상자 OpenAI 합류 |
