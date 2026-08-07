@@ -90,6 +90,13 @@ if [ -n "$NEW_MD" ] || [ "$UNPUSHED" != "0" ]; then
   WORD_COUNT=$([ -n "$PUB_FILE" ] && /usr/bin/wc -w < "$PUB_FILE" | /usr/bin/tr -d ' ' || echo "0")
   /usr/bin/osascript -e "display notification \"${PUB_FILE} (${WORD_COUNT}단어) — ${GIT_STATUS}\" with title \"📰 AI Daily Report\" subtitle \"오늘의 AI 동향 준비\" sound name \"Glass\""
   echo "✅ ${PUB_FILE} 발행 ($WORD_COUNT 단어) — $GIT_STATUS" >> "$LOG_FILE"
+elif [ -f "${TODAY_KST}.md" ]; then
+  # 할 일이 안 남았는데 오늘 파일은 있다 = claude가 생성·커밋·push까지 스스로 끝낸 경우다 (2026-08-05 신설).
+  # 이걸 실패로 신고하던 버그가 있었다. 검사가 "파일이 있나"가 아니라 "내가 할 일이 남았나"를 물었기 때문이다.
+  # 실측 — 08-05 10시 회차는 보고서 19607바이트를 만들고 push까지 끝냈는데 종료 코드 1로 신고돼,
+  # 대표 화면에 빨간 경보가 떴다. 멀쩡한 자동화를 매일 들여다보게 만드는 거짓 경보다.
+  PUB_WORDS=$(/usr/bin/wc -w < "${TODAY_KST}.md" | /usr/bin/tr -d ' ')
+  echo "✅ ${TODAY_KST}.md 발행 확인 ($PUB_WORDS 단어) — claude가 커밋·push까지 마침" >> "$LOG_FILE"
 else
   /usr/bin/osascript -e "display notification \"보고서 생성 실패 (claude exit $CLAUDE_EXIT). 로그: $LOG_FILE\" with title \"AI Daily Report\" subtitle \"⚠️ 확인 필요\" sound name \"Basso\""
   echo "❌ $TODAY_KST 보고서 파일이 생성되지 않음 (claude exit $CLAUDE_EXIT)" >> "$LOG_FILE"
