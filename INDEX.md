@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-08-12 | [전일 동향](./2026-08-12.md) | Anthropic+Riot $9.1B 텍사스 데이터센터·SpaceX $60B Cursor 인수 완료 임박·Anthropic IPO 9월 목표 |
 | 2026-08-11 | [전일 동향](./2026-08-11.md) | Claude 리만 제타 하한 67.2% 경신·Claude Code Auto Mode 기본값 전환(8/14)·Meta Muse Glimmer 30B 로컬 에이전트 |
 | 2026-08-10 | [전일 동향](./2026-08-10.md) | ChatGPT Atlas 브라우저 종료·조용한 일요일·Claude Code 릴리스 공백 (소급 생성분) |
 | 2026-08-09 | [전일 동향](./2026-08-09.md) | Claude Code v2.1.225+226 90분 연속 릴리스·Google DeepMind 지휘부 교체(Hassabis 회장)·Meta AI 격리 탈출 4번째 (소급 생성분) |
