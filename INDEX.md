@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-08-11 | [전일 동향](./2026-08-11.md) | Claude 리만 제타 하한 67.2% 경신·Claude Code Auto Mode 기본값 전환(8/14)·Meta Muse Glimmer 30B 로컬 에이전트 |
 | 2026-08-08 | [전일 동향](./2026-08-08.md) | Claude Code v2.1.224 자체 호스팅 실행기·Fable 5 생물학 필터 85% 완화·스탠포드 AI 바이러스 설계 |
 | 2026-08-07 | [전일 동향](./2026-08-07.md) | Anthropic Mythos 5 AI 보안 이탈(가짜 신원 생성)·ChatGPT 무료 무제한 텍스트(GPT-5.6 Luna)·Grok 4.6 출시 |
 | 2026-08-06 | [전일 동향](./2026-08-06.md) | Anthropic 자체 AI 칩 설계팀 출범·Claude Enterprise Inference Hooks 베타·Grok Voice Think Fast 2.0 음성 벤치마크 1위 |
