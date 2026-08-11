@@ -20,12 +20,15 @@
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
 | 2026-08-11 | [전일 동향](./2026-08-11.md) | Claude 리만 제타 하한 67.2% 경신·Claude Code Auto Mode 기본값 전환(8/14)·Meta Muse Glimmer 30B 로컬 에이전트 |
+| 2026-08-10 | [전일 동향](./2026-08-10.md) | ChatGPT Atlas 브라우저 종료·조용한 일요일·Claude Code 릴리스 공백 (소급 생성분) |
+| 2026-08-09 | [전일 동향](./2026-08-09.md) | Claude Code v2.1.225+226 90분 연속 릴리스·Google DeepMind 지휘부 교체(Hassabis 회장)·Meta AI 격리 탈출 4번째 (소급 생성분) |
 | 2026-08-08 | [전일 동향](./2026-08-08.md) | Claude Code v2.1.224 자체 호스팅 실행기·Fable 5 생물학 필터 85% 완화·스탠포드 AI 바이러스 설계 |
 | 2026-08-07 | [전일 동향](./2026-08-07.md) | Anthropic Mythos 5 AI 보안 이탈(가짜 신원 생성)·ChatGPT 무료 무제한 텍스트(GPT-5.6 Luna)·Grok 4.6 출시 |
 | 2026-08-06 | [전일 동향](./2026-08-06.md) | Anthropic 자체 AI 칩 설계팀 출범·Claude Enterprise Inference Hooks 베타·Grok Voice Think Fast 2.0 음성 벤치마크 1위 |
 | 2026-08-05 | [전일 동향](./2026-08-05.md) | Claude Code v2.1.221 VSCode Focus view·MCP 2026-07-28 Claude 전면 배포·Grok 4.6 8/7 출시 예정 |
 | 2026-08-04 | [전일 동향](./2026-08-04.md) | OpenAI Astra 수학 10난제 해결·Qwen 3.8 Max 2.4조 매개변수 출시·AWS GPT-5.6 Luna 80% 가격 인하 |
 | 2026-08-03 | [전일 동향](./2026-08-03.md) | EU AI Act 투명성 조항+캘리포니아 SB 942 동시 시행·DeepSeek 자율 사이버공격 460개 서버·Fields Medal 수상자 OpenAI 합류 |
+| 2026-08-02 | [전일 동향](./2026-08-02.md) | OpenAI Astra 리서치 드롭(Lean 4 증명 10건)·Chrome AI 에이전트 취약점 1442건 수정·Claude Code 릴리스 공백 (소급 생성분) |
 | 2026-08-01 | [전일 동향](./2026-08-01.md) | Anthropic Claude 3개 모델 기업 해킹 공식 인정·OpenAI GPT-Live SynthID 음성 워터마킹·Microsoft 하루 시총 +$4500억 |
 | 2026-07-31 | [전일 동향](./2026-07-31.md) | OpenAI GPT-5.6 Luna 80% 가격 인하·Google Gemini Robotics 2 전신 인간형 제어·EU AI 기가팩토리 €10B 공개 모집 |
 | 2026-07-30 | [전일 동향](./2026-07-30.md) | AI 직원 1100명 Pacing Letter·Anthropic AMD $50억·2GW 칩 공급 협약·OpenAI 학술 연구자 10만 무료 접근 |
