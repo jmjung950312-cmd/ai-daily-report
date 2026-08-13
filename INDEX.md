@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-08-14 | [전일 동향](./2026-08-14.md) | Anthropic 첫 분기 흑자($559M)·Decart $6B 인수 협상·Auto Mode 기본값 전환 |
 | 2026-08-13 | [전일 동향](./2026-08-13.md) | Google Pixel 11·Claude 워터마킹 반발·Sonnet 5 가격 영구 동결 |
 | 2026-08-12 | [전일 동향](./2026-08-12.md) | Anthropic+Riot $9.1B 텍사스 데이터센터·SpaceX $60B Cursor 인수 완료 임박·Anthropic IPO 9월 목표 |
 | 2026-08-11 | [전일 동향](./2026-08-11.md) | Claude 리만 제타 하한 67.2% 경신·Claude Code Auto Mode 기본값 전환(8/14)·Meta Muse Glimmer 30B 로컬 에이전트 |
