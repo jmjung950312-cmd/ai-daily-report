@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-08-16 | [전일 동향](./2026-08-16.md) | Manus AI Meta 인수 해소 독립 재운영·Claude Code v2.1.233 런타임 버그 수정·DeepSeek V4 API 최대 1100% 가격 인상 |
 | 2026-08-15 | [전일 동향](./2026-08-15.md) | Claude Code v2.1.232 서브에이전트 포킹 기본화·Claude for Government Beta·GPT-5.6 Ultrafast 750토큰/초 |
 | 2026-08-14 | [전일 동향](./2026-08-14.md) | Anthropic 첫 분기 흑자($559M)·Decart $6B 인수 협상·Auto Mode 기본값 전환 |
 | 2026-08-13 | [전일 동향](./2026-08-13.md) | Google Pixel 11·Claude 워터마킹 반발·Sonnet 5 가격 영구 동결 |
