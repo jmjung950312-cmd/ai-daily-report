@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-08-19 | [전일 동향](./2026-08-19.md) | Claude Code v2.1.234 자동세션재개·NTLM보안패치·OpenAI GPT-5.6 추론슬라이더·Anthropic ARR $65B |
 | 2026-08-18 | [전일 동향](./2026-08-18.md) | OpenAI Preparedness Team 해체·Higgsfield $400M $5.4B 밸류에이션·Anthropic 36분 아웃타지 |
 | 2026-08-17 | [전일 동향](./2026-08-17.md) | Stripe OpenRouter $7B+ 인수·Grok Bot 얼리 베타 오픈·DeepSeek V4-Pro GA 적응형 추론 |
 | 2026-08-16 | [전일 동향](./2026-08-16.md) | Manus AI Meta 인수 해소 독립 재운영·Claude Code v2.1.233 런타임 버그 수정·DeepSeek V4 API 최대 1100% 가격 인상 |
