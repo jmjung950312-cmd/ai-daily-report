@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-08-21 | [전일 동향](./2026-08-21.md) | Claude Code v2.1.236~237 Concise출력·데이터보존정책 기업클라우드 개정·volcengine/OpenViking |
 | 2026-08-20 | [전일 동향](./2026-08-20.md) | Anthropic Risk Report·Model 2 공개·Fractile $250M 추론칩 계약·Unitree IPO 629% 폭등 $66B |
 | 2026-08-19 | [전일 동향](./2026-08-19.md) | Claude Code v2.1.234 자동세션재개·NTLM보안패치·OpenAI GPT-5.6 추론슬라이더·Anthropic ARR $65B |
 | 2026-08-18 | [전일 동향](./2026-08-18.md) | OpenAI Preparedness Team 해체·Higgsfield $400M $5.4B 밸류에이션·Anthropic 36분 아웃타지 |
