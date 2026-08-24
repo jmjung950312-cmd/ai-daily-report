@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-08-25 | [전일 동향](./2026-08-25.md) | Claude AI 8월 7번째 장애 IPO직전·OpenAI GPT-5.6 Sol 20% 가격인하·Google Gemini DLP 기업보안 |
 | 2026-08-24 | [전일 동향](./2026-08-24.md) | Qwen-UI-Agent GPT-5.6 12%p 능가·DeepSeek V4-Flash 이미지 추가·Claude 3 Haiku Google Cloud 종료 |
 | 2026-08-23 | [전일 동향](./2026-08-23.md) | Claude Code v2.1.239 Alpine지원·JetBrains수정·Anthropic IPO $2조 10월목표·Google Gemini 3.6 Flash 안정버전 |
 | 2026-08-22 | [전일 동향](./2026-08-22.md) | Anthropic IPO 이달말 신청·SpaceX $86B 기록 겨냥·Claude Code v2.1.238 메모리누수수정·OpenAI 받아쓰기 고도화 |
