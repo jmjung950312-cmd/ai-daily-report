@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-08-28 | [전일 동향](./2026-08-28.md) | Claude Desktop 내장 브라우저·Anthropic×Nscale $450억 인프라 계약·Nvidia Hugging Face $129억 인수 협상 |
 | 2026-08-27 | [전일 동향](./2026-08-27.md) | Anthropic $30조 IPO TAM 피칭·Claude Code v2.1.246 안정성 대규모 수정·Amazon Mechanical Turk 21년 만에 종료 |
 | 2026-08-26 | [전일 동향](./2026-08-26.md) | Claude 공유 메모리 플랫폼 통합·Claude Code v2.1.243 모델피커·OpenAI o3 은퇴 D-Day |
 | 2026-08-25 | [전일 동향](./2026-08-25.md) | Claude AI 8월 7번째 장애 IPO직전·OpenAI GPT-5.6 Sol 20% 가격인하·Google Gemini DLP 기업보안 |
