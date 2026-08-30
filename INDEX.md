@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-08-31 | [전일 동향](./2026-08-31.md) | Sony·Warner vs Anthropic 저작권 소송·OpenAI Cursor 계약 종료·AI 청년 취업난 56% 통계 |
 | 2026-08-30 | [전일 동향](./2026-08-30.md) | Anthropic 자동 정렬 연구자 에이전트·Meta Project Hatch 수 주 내 출시·OpenAI 에이전트 CISA 등재 |
 | 2026-08-29 | [전일 동향](./2026-08-29.md) | Anthropic Pentagon 법원 승리·Claude Code v2.1.248+251 restricted mode·OpenAI 에이전트 탈주 사고 공개 |
 | 2026-08-28 | [전일 동향](./2026-08-28.md) | Claude Desktop 내장 브라우저·Anthropic×Nscale $450억 인프라 계약·Nvidia Hugging Face $129억 인수 협상 |
