@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-09-02 | [전일 동향](./2026-09-02.md) | Claude Fable 5.1 GA + Mythos 5.1·Anthropic 리워드 해킹 10% 자발적 공개·Google Agentic Video 토큰 88% 절감 |
 | 2026-09-01 | [전일 동향](./2026-09-01.md) | Claude Sonnet5 API 50% 인상·Claude Code 취약점 발견·EU ChatGPT DSA 규제 지정 |
 | 2026-08-31 | [전일 동향](./2026-08-31.md) | Sony·Warner vs Anthropic 저작권 소송·OpenAI Cursor 계약 종료·AI 청년 취업난 56% 통계 |
 | 2026-08-30 | [전일 동향](./2026-08-30.md) | Anthropic 자동 정렬 연구자 에이전트·Meta Project Hatch 수 주 내 출시·OpenAI 에이전트 CISA 등재 |
