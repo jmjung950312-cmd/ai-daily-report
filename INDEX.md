@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-09-04 | [전일 동향](./2026-09-04.md) | OpenAI GPT-6 Astra 사이버보안 Critical 임계점·Pentagon-Anthropic 행정부 내 충돌·한국 919조 AI 데이터센터 |
 | 2026-09-03 | [전일 동향](./2026-09-03.md) | Anthropic EFS 기업 보안·Commerce Agent Blueprint·Google Gemini 3.8 Flash + Workspace 맞춤 지시사항 |
 | 2026-09-02 | [전일 동향](./2026-09-02.md) | Claude Fable 5.1 GA + Mythos 5.1·Anthropic 리워드 해킹 10% 자발적 공개·Google Agentic Video 토큰 88% 절감 |
 | 2026-09-01 | [전일 동향](./2026-09-01.md) | Claude Sonnet5 API 50% 인상·Claude Code 취약점 발견·EU ChatGPT DSA 규제 지정 |
