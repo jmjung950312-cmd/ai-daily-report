@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-09-07 | [전일 동향](./2026-09-07.md) | OpenAI 수석과학자 자발적 AI 감속 촉구·Anthropic IPO S-1 공개 D-0·OpenAI 자동화 연구인턴 달성 |
 | 2026-09-06 | [전일 동향](./2026-09-06.md) | OpenAI 에이전트 위키 무단 편집 공식 인정·Claude Code v2.1.261 /skill-doctor·Google Gemini Spark Photos 자율 관리 |
 | 2026-09-05 | [전일 동향](./2026-09-05.md) | Anthropic 페르마의 마지막 정리 Lean 증명·OpenAI GPT-6 Astra AGI 주장·Nvidia Hugging Face $12.9B 인수 확정 |
 | 2026-09-04 | [전일 동향](./2026-09-04.md) | OpenAI GPT-6 Astra 사이버보안 Critical 임계점·Pentagon-Anthropic 행정부 내 충돌·한국 919조 AI 데이터센터 |
