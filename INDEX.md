@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-09-10 | [전일 동향](./2026-09-10.md) | NSA·CISA·FBI 중국AI6개사 산업적증류 공동성명·Anthropic 4차보안사고+멸종위험10%·Claude Code 하루3버전 v2.1.265-267 |
 | 2026-09-09 | [전일 동향](./2026-09-09.md) | OpenAI Navier-Stokes AI증명 저자논쟁·Meta Muse 개인AI에이전트 출시·Anthropic Decart $6B 인수철회·Mistral €3B 삼성주도 |
 | 2026-09-08 | [전일 동향](./2026-09-08.md) | Massachusetts AI안전규제 Anthropic vs OpenAI·Google 분열·affaan-m ECC 오픈소스 하네스 250K★·Fluidstack $1.5B 클로즈 |
 | 2026-09-07 | [전일 동향](./2026-09-07.md) | OpenAI 수석과학자 자발적 AI 감속 촉구·Anthropic IPO S-1 공개 D-0·OpenAI 자동화 연구인턴 달성 |
