@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-09-12 | [전일 동향](./2026-09-12.md) | DeepSeek V4.1 Flash 552B MoE 1M컨텍스트 오픈소스·OpenAI Agents API 공개베타·Sakana Fugu Ultra v2 Claude Opus5 일부벤치마크 앞질러 |
 | 2026-09-11 | [전일 동향](./2026-09-11.md) | Anthropic Threat Intelligence 생물무기·드론·사이버 7개해악 최초공개·Apple iPhone Duo 폴더블$1999·EU OpenAI에이전트 DSEwiki권한탈취 조사 |
 | 2026-09-10 | [전일 동향](./2026-09-10.md) | NSA·CISA·FBI 중국AI6개사 산업적증류 공동성명·Anthropic 4차보안사고+멸종위험10%·Claude Code 하루3버전 v2.1.265-267 |
 | 2026-09-09 | [전일 동향](./2026-09-09.md) | OpenAI Navier-Stokes AI증명 저자논쟁·Meta Muse 개인AI에이전트 출시·Anthropic Decart $6B 인수철회·Mistral €3B 삼성주도 |
