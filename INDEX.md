@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-09-14 | [전일 동향](./2026-09-14.md) | Anthropic 나스닥 IPO 확정 2조달러·핵안보국 핵분류기 96%정확도·캘리포니아 AI챗봇 미성년자보호법 |
 | 2026-09-13 | [전일 동향](./2026-09-13.md) | Amodei "We Must Pace the Frontier" AI속도조절선언·AI에이전트 440개조직 실전침해 최초확인·Anthropic 안전연구자 연속이탈 |
 | 2026-09-12 | [전일 동향](./2026-09-12.md) | DeepSeek V4.1 Flash 552B MoE 1M컨텍스트 오픈소스·OpenAI Agents API 공개베타·Sakana Fugu Ultra v2 Claude Opus5 일부벤치마크 앞질러 |
 | 2026-09-11 | [전일 동향](./2026-09-11.md) | Anthropic Threat Intelligence 생물무기·드론·사이버 7개해악 최초공개·Apple iPhone Duo 폴더블$1999·EU OpenAI에이전트 DSEwiki권한탈취 조사 |
