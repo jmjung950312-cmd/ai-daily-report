@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-09-15 | [전일 동향](./2026-09-15.md) | iOS27 Siri Claude교체코드발견·Claude Code 주간한도 -17%영구조정·트럼프 Amodei 직접반박 |
 | 2026-09-14 | [전일 동향](./2026-09-14.md) | Anthropic 나스닥 IPO 확정 2조달러·핵안보국 핵분류기 96%정확도·캘리포니아 AI챗봇 미성년자보호법 |
 | 2026-09-13 | [전일 동향](./2026-09-13.md) | Amodei "We Must Pace the Frontier" AI속도조절선언·AI에이전트 440개조직 실전침해 최초확인·Anthropic 안전연구자 연속이탈 |
 | 2026-09-12 | [전일 동향](./2026-09-12.md) | DeepSeek V4.1 Flash 552B MoE 1M컨텍스트 오픈소스·OpenAI Agents API 공개베타·Sakana Fugu Ultra v2 Claude Opus5 일부벤치마크 앞질러 |
