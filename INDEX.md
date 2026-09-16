@@ -19,6 +19,8 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-09-16 rerun3 | [전일 동향 4차 보완](./2026-09-16-rerun3.md) | Sam Altman OpenAI IPO 2026없다·OpenAI Project Lily 계약직수백명 ChatGPT대화검토·Anthropic $517B컴퓨트약정 14.8GW |
+| 2026-09-16 rerun2 | [전일 동향 3차 보완](./2026-09-16-rerun2.md) | AI에이전트 48시간395개조직26초마다1곳·Anthropic CI 25배성장Claude코드80%작성·Sakana Fugu Max 오픈모델라우터 |
 | 2026-09-16 rerun | [전일 동향 보완](./2026-09-16-rerun.md) | Google 내부 Claude Opus5 전엔지니어 오픈·OpenRouter OpenAI>Anthropic 지출역전·Nvidia Rubin 7.2배 성능 |
 | 2026-09-16 | [전일 동향](./2026-09-16.md) | Palantir·NVIDIA·Booz Allen Fable접근제한+Enterprise Frontier Safeguards·Gemini 3.8 Live 음성AI GPT앞질러·Cloudflare AI크롤러정책발효 |
 | 2026-09-15 | [전일 동향](./2026-09-15.md) | iOS27 Siri Claude교체코드발견·Claude Code 주간한도 -17%영구조정·트럼프 Amodei 직접반박 |
