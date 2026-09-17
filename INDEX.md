@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-09-18 | [전일 동향](./2026-09-18.md) | Anthropic Claude R&D 26%주도 자기개발팀구성원·Paper2Agent 논문→MCP서버·퀸즐랜드 2.16GW 데이터센터+NovoNordisk파트너십 |
 | 2026-09-17 | [전일 동향](./2026-09-17.md) | OpenAI Sponsored Agents ChatGPT광고에이전트 Wayfair·Angi·OpenAI 안전사고 6건공개 FRONTIER Act지지·AEI 오픈소스에이전트벤치마크 |
 | 2026-09-16 rerun3 | [전일 동향 4차 보완](./2026-09-16-rerun3.md) | Sam Altman OpenAI IPO 2026없다·OpenAI Project Lily 계약직수백명 ChatGPT대화검토·Anthropic $517B컴퓨트약정 14.8GW |
 | 2026-09-16 rerun2 | [전일 동향 3차 보완](./2026-09-16-rerun2.md) | AI에이전트 48시간395개조직26초마다1곳·Anthropic CI 25배성장Claude코드80%작성·Sakana Fugu Max 오픈모델라우터 |
