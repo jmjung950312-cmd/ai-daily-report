@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-09-20 | [전일 동향](./2026-09-20.md) | Claude Code Projects 베타 멀티레포병렬조율·claude plugin eval 새명령어·Anthropic 생물분자모델30개4배가속오픈소스 |
 | 2026-09-19 | [전일 동향](./2026-09-19.md) | Anthropic+Accenture 임베디드AI안전성평가$1B+·OpenAI Astra for Law 법률특화GPT-6 2.3억URL·Claude Code 2.1.277+278 AGENTS.md+70+버그수정 |
 | 2026-09-18 | [전일 동향](./2026-09-18.md) | Anthropic Claude R&D 26%주도 자기개발팀구성원·Paper2Agent 논문→MCP서버·퀸즐랜드 2.16GW 데이터센터+NovoNordisk파트너십 |
 | 2026-09-17 | [전일 동향](./2026-09-17.md) | OpenAI Sponsored Agents ChatGPT광고에이전트 Wayfair·Angi·OpenAI 안전사고 6건공개 FRONTIER Act지지·AEI 오픈소스에이전트벤치마크 |
