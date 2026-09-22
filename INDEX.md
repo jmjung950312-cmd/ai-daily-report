@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-09-23 | [전일 동향](./2026-09-23.md) | Claude Opus 5.5 출시 40%절감Always-on-Thinking·GPT-6 Sol Luna AI가격전쟁·Claude Code 2.1.280 Opus5.5기본탑재 |
 | 2026-09-22 | [전일 동향](./2026-09-22.md) | stablyai/orca 병렬에이전트ADE신규트렌딩·Claude API온디맨드컴팩션베타·에이전트도구레이어3단구조형성 |
 | 2026-09-21 | [전일 동향](./2026-09-21.md) | GitHub 병렬에이전트도구4개동시트렌딩진입·Anthropic LSVP생명과학검증프로그램공개베타·Claude SMB 43워크플로우27커넥터확장 |
 | 2026-09-20 | [전일 동향](./2026-09-20.md) | Claude Code Projects 베타 멀티레포병렬조율·claude plugin eval 새명령어·Anthropic 생물분자모델30개4배가속오픈소스 |
