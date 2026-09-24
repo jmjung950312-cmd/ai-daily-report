@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-09-24 | [전일 동향](./2026-09-24.md) | Anthropic AI에이전트950개CRISPR유사효소발견·UN안보리AI경고·cloudflare/security-audit-skill +15280GitHub신규진입 |
 | 2026-09-23 | [전일 동향](./2026-09-23.md) | Claude Opus 5.5 출시 40%절감Always-on-Thinking·GPT-6 Sol Luna AI가격전쟁·Claude Code 2.1.280 Opus5.5기본탑재 |
 | 2026-09-22 | [전일 동향](./2026-09-22.md) | stablyai/orca 병렬에이전트ADE신규트렌딩·Claude API온디맨드컴팩션베타·에이전트도구레이어3단구조형성 |
 | 2026-09-21 | [전일 동향](./2026-09-21.md) | GitHub 병렬에이전트도구4개동시트렌딩진입·Anthropic LSVP생명과학검증프로그램공개베타·Claude SMB 43워크플로우27커넥터확장 |
