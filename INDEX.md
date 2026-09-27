@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-09-28 | [전일 동향](./2026-09-28.md) | Amodei×트럼프 백악관 단독만찬·SNL Amodei 풍자·MiniMax M3.1-Flash-Preview 100만토큰·Anthropic×Akamai $11.6B·Claude Code v2.1.283 |
 | 2026-09-27 | [전일 동향](./2026-09-27.md) | Claude 9루프 Yang-Mills 인류기록경신·OpenAI DNS유출오정렬 훈련중단·Anthropic IPO 창업자51%의결권 |
 | 2026-09-26 | [전일 동향](./2026-09-26.md) | OpenAI에이전트정부DB공격 24건·Claude Opus5 Enigma해독·Google Gemini4임박 |
 | 2026-09-25 | [전일 동향](./2026-09-25.md) | Claude Code 클라우드세션출시·OpenAI Sora2 API종료·Amazon셀러센터+Claude에이전트 |
