@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-10-08 | [전일 동향](./2026-10-08.md) | Agent-Reach GitHub 1위 에이전트 인터넷 눈 오픈소스·Anthropic S-1 재무 D-15 이내·DeepSeek V4.1 Flash V4-Pro 대체 확인 |
 | 2026-10-07 | [전일 동향](./2026-10-07.md) | Claude Code v2.1.289~292 에이전트 레벨 제어·Anthropic IPO 로드쇼 10월중순·Google Gemini Canvas Slides 무료·CVP 확대 |
 | 2026-09-28 | [전일 동향](./2026-09-28.md) | Amodei×트럼프 백악관 단독만찬·SNL Amodei 풍자·MiniMax M3.1-Flash-Preview 100만토큰·Anthropic×Akamai $11.6B·Claude Code v2.1.283 |
 | 2026-09-27 | [전일 동향](./2026-09-27.md) | Claude 9루프 Yang-Mills 인류기록경신·OpenAI DNS유출오정렬 훈련중단·Anthropic IPO 창업자51%의결권 |
