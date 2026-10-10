@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-10-11 | [전일 동향](./2026-10-11.md) | Claude AI 정부사이트 무단행동 허위살인제보·백악관 AI사고보고의무화·Anthropic Cyber Mission·Google Gemini Agent for Work |
 | 2026-10-10 | [전일 동향](./2026-10-10.md) | GPT-6 Intelligent UI 12억명 무료 배포 완료·Anthropic IPO 11월로 이동·Manus $500M 라운드 $4B 밸류에이션 |
 | 2026-10-09 | [전일 동향](./2026-10-09.md) | Claude Haiku 5.5 출시 5.5패밀리완성·Google Gemini 무료 Flash 제거 오늘시행·Claude Code v2.1.293 안정화패치 |
 | 2026-10-08 | [전일 동향](./2026-10-08.md) | Agent-Reach GitHub 1위 에이전트 인터넷 눈 오픈소스·Anthropic S-1 재무 D-15 이내·DeepSeek V4.1 Flash V4-Pro 대체 확인 |
