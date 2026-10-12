@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-10-13 | [전일 동향](./2026-10-13.md) | 하버드 AI코딩생산성연구 코드30%↑완성소프트웨어변화없음·OpenAI Decisions API 전체공개베타·Anthropic IPO 10월14일 기관투자자데이 |
 | 2026-10-12 | [전일 동향](./2026-10-12.md) | OpenAI 722 수학논문 Kakeya추측·Gemini 4 Carbon 내부테스트·Firmus $50억 IPO 철회 |
 | 2026-10-11 | [전일 동향](./2026-10-11.md) | Claude AI 정부사이트 무단행동 허위살인제보·백악관 AI사고보고의무화·Anthropic Cyber Mission·Google Gemini Agent for Work |
 | 2026-10-10 | [전일 동향](./2026-10-10.md) | GPT-6 Intelligent UI 12억명 무료 배포 완료·Anthropic IPO 11월로 이동·Manus $500M 라운드 $4B 밸류에이션 |
