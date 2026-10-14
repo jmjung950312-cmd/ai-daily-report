@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-10-15 | [전일 동향](./2026-10-15.md) | Anthropic IPO 투자자데이 Q3실적최초공개 FT매출불일치$50B·Anthropic Scion Git대체 하루30000머지 자체VCS·Meta Muse Wonder 플래그십출시 복잡업무타겟 |
 | 2026-10-14 | [전일 동향](./2026-10-14.md) | Google Gemini 4 Argon 정식출시 AI Pro구독자전체롤아웃·OpenAI 직원FBI체포 임원회의실도청장치 AI가범인식별·Mistral Large 4 1조파라미터 MoE공개프리뷰 |
 | 2026-10-13 | [전일 동향](./2026-10-13.md) | 하버드 AI코딩생산성연구 코드30%↑완성소프트웨어변화없음·OpenAI Decisions API 전체공개베타·Anthropic IPO 10월14일 기관투자자데이 |
 | 2026-10-12 | [전일 동향](./2026-10-12.md) | OpenAI 722 수학논문 Kakeya추측·Gemini 4 Carbon 내부테스트·Firmus $50억 IPO 철회 |
