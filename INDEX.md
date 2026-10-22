@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-10-22 | [전일 동향](./2026-10-22.md) | Claude Duet 프로액티브 에이전트 연구 프리뷰·Anthropic IPO 재무 $80.7B 순손실 상반기 매출 $16.3B·Claude Code 2.1.304~306 세 버전 동시 출시 |
 | 2026-10-21 | [전일 동향](./2026-10-21.md) | Anthropic-Nscale 2차 $45B 협상·Google Gemini Android Auto 개인화·Claude Opus 5.5 에이전틱 BenchLM 1위 |
 | 2026-10-19 | [전일 동향](./2026-10-19.md) | Claude Code 2.1.301+2.1.302 fork서브에이전트·DeepSeek V4.1-Flash-1017 오픈소스출시·Anthropic 공익펀드 5% 주식 |
 | 2026-10-16 | [전일 동향](./2026-10-16.md) | Claude Code 2.1.299+2.1.300 유휴압축+모드프롬프트제어·Anthropic IPO 밸류에이션$1.5T하락 Q3성장둔화·Meta Muse Spark Open 816B MoE 오픈웨이트 |
