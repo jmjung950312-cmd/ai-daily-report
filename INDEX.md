@@ -19,6 +19,8 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-10-24 | [전일 동향](./2026-10-24.md) | Anthropic IPO S-1 공개 불발·코딩 에이전트 보안 25%·claude-plugins-official GitHub 트렌딩 |
+| 2026-10-23 | [전일 동향](./2026-10-23.md) | Agent Skills AAIF 기증·Claude Code 2.1.307 safety_event 텔레메트리·Anthropic IPO S-1 10-23 공개 예정 |
 | 2026-10-22 | [전일 동향](./2026-10-22.md) | Claude Duet 프로액티브 에이전트 연구 프리뷰·Anthropic IPO 재무 $80.7B 순손실 상반기 매출 $16.3B·Claude Code 2.1.304~306 세 버전 동시 출시 |
 | 2026-10-21 | [전일 동향](./2026-10-21.md) | Anthropic-Nscale 2차 $45B 협상·Google Gemini Android Auto 개인화·Claude Opus 5.5 에이전틱 BenchLM 1위 |
 | 2026-10-19 | [전일 동향](./2026-10-19.md) | Claude Code 2.1.301+2.1.302 fork서브에이전트·DeepSeek V4.1-Flash-1017 오픈소스출시·Anthropic 공익펀드 5% 주식 |
