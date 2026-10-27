@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-10-28 | [전일 동향](./2026-10-28.md) | Anthropic S-1 IPO 공식 파일링 나스닥 ANT·GPT-6.1 Terra 50% 저렴·Claude Code 2.1.311 ultrathink xhigh |
 | 2026-10-26 | [전일 동향](./2026-10-26.md) | Anthropic IPO 이번 주 파일링 마지노선·cloudflare security-audit-skill GitHub 트렌딩 1위·DeepSeek V4 Pro GA |
 | 2026-10-25 | [전일 동향](./2026-10-25.md) | Claude Opus 5.5 정식 출시 40% 저렴·Claude 5.5 패밀리 완성·Claude Code 2.1.308~310 하루 세 버전 |
 | 2026-10-24 | [전일 동향](./2026-10-24.md) | Anthropic IPO S-1 공개 불발·코딩 에이전트 보안 25%·claude-plugins-official GitHub 트렌딩 |
