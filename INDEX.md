@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-10-30 | [전일 동향](./2026-10-30.md) | OpenAI 28일 캠페인 Day 24 GPT-6 Astra 공식 소개·Anthropic IPO S-1 파일링 완료 로드쇼 단계·GitHub ponytail Agent-Reach 신규 트렌딩 |
 | 2026-10-29 | [전일 동향](./2026-10-29.md) | Anthropic Mithril Medicine 희귀근육병 스타트업 인수 공개·Claude Code 2.1.312 대용량 CLAUDE.md 덮어쓰기 버그 수정·OpenAI 28일 캠페인 Day 23 메일캘린더 플러그인 |
 | 2026-10-28 | [전일 동향](./2026-10-28.md) | Anthropic S-1 IPO 공식 파일링 나스닥 ANT·GPT-6.1 Terra 50% 저렴·Claude Code 2.1.311 ultrathink xhigh |
 | 2026-10-26 | [전일 동향](./2026-10-26.md) | Anthropic IPO 이번 주 파일링 마지노선·cloudflare security-audit-skill GitHub 트렌딩 1위·DeepSeek V4 Pro GA |
