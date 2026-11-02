@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-11-03 | [전일 동향](./2026-11-03.md) | Anthropic S-1 수정공시 Q3 매출 170억달러·Goldman Sachs Claude Code 엔지니어 전용 제한·GDPx 벤치마크 Claude Opus 5.5 1위 |
 | 2026-11-02 | [전일 동향](./2026-11-02.md) | Anthropic Project Deal 에이전트 사내 마켓플레이스 186건 거래·OpenAI Day 27 Banked Reset·DeepSeek V4.1 Flash-1017 OpenRouter 배포 |
 | 2026-11-01 | [전일 동향](./2026-11-01.md) | Claude Code 2.1.316 DISABLE_ULTRATHINK 환경변수 신설·OpenAI Day 26 멀티계정 전환·Anthropic Opus 5.5 뉴스룸 공식 게시 |
 | 2026-10-31 | [전일 동향](./2026-10-31.md) | Claude Code 2.1.314 작업폴더밖 쓰기차단 blockWritesOutsideWorkingDirectories·게임재현 IP 가드레일 서버측 추가·OpenAI Day 25 Pro 한도 2배 |
