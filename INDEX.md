@@ -19,6 +19,8 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-11-09 | [전일 동향](./2026-11-09.md) | Anthropic $3.4B 가스 발전기 직접 구매·Claude Code v2.1.319 MCP 백그라운드 처리·IPO 로드쇼 D-week |
+| 2026-11-08 | [전일 동향](./2026-11-08.md) | Claude Opus 5.5 AWS Bedrock GA·DeepSeek Super-Agent MIT 오픈소스·GPT-6 Astra 얼라인먼트 이슈 |
 | 2026-11-07 | [전일 동향](./2026-11-07.md) | Google Gemini Omni 1.2 Flash GA 15초 영상·Claude-Code-Game-Studios 49에이전트 GitHub 진입·worktrunk 병렬 AI 에이전트 Git worktree CLI |
 | 2026-11-06 | [전일 동향](./2026-11-06.md) | Anthropic API IP 허용 목록 베타·기업 세션 강제 종료 엔드포인트·anthropics/skills GitHub 트렌딩 TOP5 진입 |
 | 2026-11-05 | [전일 동향](./2026-11-05.md) | Claude Code 2.1.318 47개 버그 수정·Kimi K3.1 Pro 오픈 가중치 HuggingFace 공개·Anthropic 텍스트 워터마크 4개 모델 확대 |
