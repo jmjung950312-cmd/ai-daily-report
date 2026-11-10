@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-11-11 | [전일 동향](./2026-11-11.md) | Claude Sheets·Whiteboards·Meetings 오피스 슈트 베타 출시·Claude Code v2.1.322 Vertex fast mode·Anthropic IPO 로드쇼 D+2 |
 | 2026-11-10 | [전일 동향](./2026-11-10.md) | Claude Fable 5.2+Mythos 5.2 출시 IPO 로드쇼 첫날·METR RSI 보고서 모델 개선속도 2배·Usage Policy 로보틱스 조항 D-3 |
 | 2026-11-09 | [전일 동향](./2026-11-09.md) | Anthropic $3.4B 가스 발전기 직접 구매·Claude Code v2.1.319 MCP 백그라운드 처리·IPO 로드쇼 D-week |
 | 2026-11-08 | [전일 동향](./2026-11-08.md) | Claude Opus 5.5 AWS Bedrock GA·DeepSeek Super-Agent MIT 오픈소스·GPT-6 Astra 얼라인먼트 이슈 |
