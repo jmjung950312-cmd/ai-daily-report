@@ -19,6 +19,8 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-11-13 | [전일 동향](./2026-11-13.md) | Anthropic IPO D-7 최종 가격 확정 주간·google/skills GitHub 트렌딩 첫 등장·AI 쇼핑 에이전트 42.8% 실패율 |
+| 2026-11-12 | [전일 동향](./2026-11-12.md) | OpenAI Businesses in ChatGPT 베타·Meta Muse 3종 Google Cloud 입점·AI 2027 타임라인 2028년 중반으로 앞당겨 |
 | 2026-11-11 | [전일 동향](./2026-11-11.md) | Claude Sheets·Whiteboards·Meetings 오피스 슈트 베타 출시·Claude Code v2.1.322 Vertex fast mode·Anthropic IPO 로드쇼 D+2 |
 | 2026-11-10 | [전일 동향](./2026-11-10.md) | Claude Fable 5.2+Mythos 5.2 출시 IPO 로드쇼 첫날·METR RSI 보고서 모델 개선속도 2배·Usage Policy 로보틱스 조항 D-3 |
 | 2026-11-09 | [전일 동향](./2026-11-09.md) | Anthropic $3.4B 가스 발전기 직접 구매·Claude Code v2.1.319 MCP 백그라운드 처리·IPO 로드쇼 D-week |
