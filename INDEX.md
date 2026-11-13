@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-11-14 | [전일 동향](./2026-11-14.md) | Claude Code v2.1.323 Code Mode 첫 등장·xAI Grok 4·4.20·4.1 Fast 동시 릴리스·ARE-bench 에이전트 현실 성능 벤치마크 |
 | 2026-11-13 | [전일 동향](./2026-11-13.md) | Anthropic IPO D-7 최종 가격 확정 주간·google/skills GitHub 트렌딩 첫 등장·AI 쇼핑 에이전트 42.8% 실패율 |
 | 2026-11-12 | [전일 동향](./2026-11-12.md) | OpenAI Businesses in ChatGPT 베타·Meta Muse 3종 Google Cloud 입점·AI 2027 타임라인 2028년 중반으로 앞당겨 |
 | 2026-11-11 | [전일 동향](./2026-11-11.md) | Claude Sheets·Whiteboards·Meetings 오피스 슈트 베타 출시·Claude Code v2.1.322 Vertex fast mode·Anthropic IPO 로드쇼 D+2 |
