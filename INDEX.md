@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-11-16 | [전일 동향](./2026-11-16.md) | Claude Code v2.1.325 `/loop` 실행 전 확인 요청·Anthropic IPO D-3 나스닥 거래 72시간 이내·Agent-as-Judge 패러다임 |
 | 2026-11-15 | [전일 동향](./2026-11-15.md) | Claude Code v2.1.325 보안 패치·Anthropic IPO D-4 가격 확정 11-18·meta/astryx GitHub 주간 1위 에이전트용 디자인 시스템 |
 | 2026-11-14 | [전일 동향](./2026-11-14.md) | Claude Code v2.1.323 Code Mode 첫 등장·xAI Grok 4·4.20·4.1 Fast 동시 릴리스·ARE-bench 에이전트 현실 성능 벤치마크 |
 | 2026-11-13 | [전일 동향](./2026-11-13.md) | Anthropic IPO D-7 최종 가격 확정 주간·google/skills GitHub 트렌딩 첫 등장·AI 쇼핑 에이전트 42.8% 실패율 |
