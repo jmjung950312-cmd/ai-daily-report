@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-11-19 | [전일 동향](./2026-11-19.md) | Anthropic ANT 나스닥 첫 거래일 $83·GAO AI 안전장치 뚫림 충격 보고서·Gemini 4 Neon 코드 발견 |
 | 2026-11-18 | [전일 동향](./2026-11-18.md) | Claude Code v2.1.326 에이전트 팀 Code Mode 자동 활성화·Anthropic IPO D-0 최종 가격 확정·Google Gemini 대신 전화·결제 에이전트 출시 |
 | 2026-11-17 | [전일 동향](./2026-11-17.md) | Anthropic IPO D-1·Harness-Bench 에이전트 성능 측정·METR task horizon 7개월마다 2배 |
 | 2026-11-16 | [전일 동향](./2026-11-16.md) | Claude Code v2.1.325 `/loop` 실행 전 확인 요청·Anthropic IPO D-3 나스닥 거래 72시간 이내·Agent-as-Judge 패러다임 |
