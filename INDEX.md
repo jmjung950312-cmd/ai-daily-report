@@ -19,6 +19,8 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-11-21 | [전일 동향](./2026-11-21.md) | Microsoft MAI Code 2 7개 모델·Alibaba Qwen4-Max 2.4조 파라미터·Chicago Fed AI 인플레이션 경보 |
+| 2026-11-20 | [전일 동향](./2026-11-20.md) | Anthropic ANT IPO 첫날 종가 +17%·Claude Code v2.1.328 클라우드 오토모드·Gemini 4 Neon $3/$15 출시 |
 | 2026-11-19 | [전일 동향](./2026-11-19.md) | Anthropic ANT 나스닥 첫 거래일 $83·GAO AI 안전장치 뚫림 충격 보고서·Gemini 4 Neon 코드 발견 |
 | 2026-11-18 | [전일 동향](./2026-11-18.md) | Claude Code v2.1.326 에이전트 팀 Code Mode 자동 활성화·Anthropic IPO D-0 최종 가격 확정·Google Gemini 대신 전화·결제 에이전트 출시 |
 | 2026-11-17 | [전일 동향](./2026-11-17.md) | Anthropic IPO D-1·Harness-Bench 에이전트 성능 측정·METR task horizon 7개월마다 2배 |
