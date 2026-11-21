@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-11-22 | [전일 동향](./2026-11-22.md) | ANT 상장 첫 주 마감 $95-99·Claude Code v2.1.329 확인·Fable 5.2 OWE-Bench 1위 54.6% |
 | 2026-11-21 | [전일 동향](./2026-11-21.md) | Microsoft MAI Code 2 7개 모델·Alibaba Qwen4-Max 2.4조 파라미터·Chicago Fed AI 인플레이션 경보 |
 | 2026-11-20 | [전일 동향](./2026-11-20.md) | Anthropic ANT IPO 첫날 종가 +17%·Claude Code v2.1.328 클라우드 오토모드·Gemini 4 Neon $3/$15 출시 |
 | 2026-11-19 | [전일 동향](./2026-11-19.md) | Anthropic ANT 나스닥 첫 거래일 $83·GAO AI 안전장치 뚫림 충격 보고서·Gemini 4 Neon 코드 발견 |
