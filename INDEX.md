@@ -19,6 +19,8 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-11-24 | [전일 동향](./2026-11-24.md) | GPT-6.2 Sol ChatGPT Chat 전면 확대·AI 에이전트 RISC-V CPU 12시간 설계·UN 다자 AI 안전 프레임워크 촉구 |
+| 2026-11-23 | [전일 동향](./2026-11-23.md) | ANT 2주차 개막 분수령·DNI 중국 Nvidia 칩 접근 경고·Nasdaq 연간 수익 반납 |
 | 2026-11-22 | [전일 동향](./2026-11-22.md) | ANT 상장 첫 주 마감 $95-99·Claude Code v2.1.329 확인·Fable 5.2 OWE-Bench 1위 54.6% |
 | 2026-11-21 | [전일 동향](./2026-11-21.md) | Microsoft MAI Code 2 7개 모델·Alibaba Qwen4-Max 2.4조 파라미터·Chicago Fed AI 인플레이션 경보 |
 | 2026-11-20 | [전일 동향](./2026-11-20.md) | Anthropic ANT IPO 첫날 종가 +17%·Claude Code v2.1.328 클라우드 오토모드·Gemini 4 Neon $3/$15 출시 |
