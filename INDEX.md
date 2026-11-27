@@ -19,6 +19,7 @@
 
 | 날짜 | 보고서 | 주요 키워드 |
 |---|---|---|
+| 2026-11-28 | [전일 동향](./2026-11-28.md) | OpenAI GPT-6.2 과금 수정 한도 40% 빠른 소진·Google Create My Widget Android Gemini·ARTEX AI 침투 도구 국가 지원 해킹 그룹 채택 |
 | 2026-11-27 | [전일 동향](./2026-11-27.md) | SpaceX Starmind FCC 100만 위성 궤도 AI 데이터센터 승인·Nvidia 동남아 4개국 AI 서버 선적 중단·Google Cogentic 하루 수학 논문 6편 |
 | 2026-11-26 | [전일 동향](./2026-11-26.md) | Claude Code v2.1.332 MCP 서버 스킬 베타·OpenAI Chat+Work 사용량 통합·XPENG Turing 물리 AI+IRON 로봇 |
 | 2026-11-25 | [전일 동향](./2026-11-25.md) | ANT 공모가($83) 아래 붕괴·Claude Code Review 멀티에이전트 공식 출시·CrowdStrike+Zscaler $43.9B 인수 |
